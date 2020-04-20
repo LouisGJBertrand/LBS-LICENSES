@@ -3,8 +3,8 @@ delete this part after modifications has been made]
 
 lbs liberal proprietary licensed software. v1
 written the 20-04-2020
-corrected the not completly corrected yet
-started to be used the not used by one of LBS project
+corrected the (not completly corrected yet)
+started to be used the (not used by one of LBS project)
 
 Please do not use this license before it has been corrected
 and used by one of LBS project
