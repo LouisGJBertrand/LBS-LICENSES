@@ -92,4 +92,4 @@ with this license you must:
     - you must include a jig of the original license or a link to it.
 
 The original Jig is delivered by LBS (Louis BERTRAND Studios) and is available
-at this link : 
+at this link : https://github.com/PYLOTT/LBS-LICENSES/blob/master/LBS-LPLSv1/EN.txt
