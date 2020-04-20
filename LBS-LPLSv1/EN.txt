@@ -1,0 +1,95 @@
+[this file is a jig and need to be updated to be efficient
+delete this part after modifications has been made]
+
+lbs liberal proprietary licensed software. v1
+written the 20-04-2020
+corrected the not completly corrected yet
+started to be used the not used by one of LBS project
+
+Please do not use this license before it has been corrected
+and used by one of LBS project
+
+The softaware <software name>
+shared by <software devs> (developper name or team/organization name)
+is under this license as version 1.
+
+[if the source is a fork of an other:]
+the software source is a modification of the source project named
+<source used name> made and distributed by <source used devs> (developper
+name or team/organization name) under <source used license> (license name).
+[endif]
+
+[if the source uses libraries:]
+the following list stage the libraries used, and there license:
+    - <library name> - <license>
+[endif]
+
+    Software under this license, authorize user to modify, build,
+and distribute the source as a personal entity*. Organisations,
+such as governmental organizations or medium and big sized company,
+must consult the original developer of any sources used under this
+license that will be used. If the source uses software base source
+or libraries under other licenses, the modifications that the owner
+or the team has made on those are under the license of the so called
+elements. please refer to every of the licenses presents on the source
+project.
+
+    This license can not serve as a warrant - for the developers -
+that the previously edited laws will be respected. we call the designated
+persons of above to correctly use this license.
+
+    If you cannot speak with the original dev/team, please add credits
+on the code you use if it has not been added yet by the dev. this implies
+also for personal entities as described in the definitions.
+
+A list of situations that allow organizations to use without permission
+the source code:
+    - if the developer is unreachable after min 10 tries to enter in contact
+    - if the developer modified this license to explicitly authorize you to
+        do so.
+else, you are not allowed to use without permission.
+
+every code copied from the source must contain a reference to the original
+source code/repository.
+
+Definitions:
+
+    "personal enity" as described in this license represent a single person
+    or small size company/team under 50 members.
+
+    "so called elements" refer to the library/software external sources used
+    in the final product under the actual license.
+
+
+SUMMURY:
+
+with this license you can:
+
+    as a small team/company and/or personal entity and as a governmental
+    organization or medium and big sized companies:
+    - Modify
+    - share
+    - distribute as a lbs liberal proprietary licensed software. v1 or
+        any other open license that could be compatible with this one.
+
+with this license you must:
+
+    as a personal entity:
+    - quote the original developer or team that made the source you use
+    - add in comments and in the license you use which part you modified as
+
+    a governmental organization or medium and big sized companies:
+    - take contact with the dev to discuss about royalties, usage and credits.
+    - if you can't and the situation is one of the following described situations:
+        - if the developer is unreachable after min 10 tries to enter
+            in contact. but then you must follow the license
+        - if the developer modified this license to explicitly authorize
+                you to do so.
+
+    as both parties:
+    - you must stage any modifications in the license file or copy the original
+        license shared by the dev.
+    - you must include a jig of the original license or a link to it.
+
+The original Jig is delivered by LBS (Louis BERTRAND Studios) and is available
+at this link : 
